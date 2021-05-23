@@ -4,7 +4,7 @@ import { social, links } from "./data";
 
 const Sidebar = () => {
   return (
-    <aside className={`sidebar show-sidebar`}>
+    <aside className={`sidebar`}>
       <div className="sidebar-header">
         <h3>Logo Name</h3>
         <button className="close-btn">
