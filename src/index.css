@@ -247,6 +247,11 @@ Sidebar
   align-items: center;
   padding: 1rem 1.5rem;
 }
+
+.sidebar-header h3{
+  color: hsl(205deg 81% 61%);
+  font-size: 2rem;
+}
 .close-btn {
   font-size: 1.75rem;
   background: transparent;
